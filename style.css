@@ -1,0 +1,33 @@
+h2{
+    color: blue;
+}
+*{
+    border:solid
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    background-color: burlywood;
+
+}
+
+.gameContainer{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.footer{
+    display: flex;
+    justify-content: flex-end;
+    background-color: burlywood;
+}
+
+.discription{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
